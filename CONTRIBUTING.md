@@ -54,6 +54,8 @@ hotfix: fix auth token expiry
 
 ## 4. Open a Pull Request
 
+> **Step-by-step with screenshots:** [Pull Request Guide](pull-request-guide.md)
+
 - Target branch: `dev`
 - Title: same format as commit message
 - Description must include desribe task `xxxx ingtegration completed.`
